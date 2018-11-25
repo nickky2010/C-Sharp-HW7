@@ -1,0 +1,7 @@
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_3\bin\Debug\HW7_3.exe.config
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_3\bin\Debug\HW7_3.exe
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_3\bin\Debug\HW7_3.pdb
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_3\obj\Debug\HW7_3.csprojAssemblyReference.cache
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_3\obj\Debug\HW7_3.csproj.CoreCompileInputs.cache
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_3\obj\Debug\HW7_3.exe
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_3\obj\Debug\HW7_3.pdb

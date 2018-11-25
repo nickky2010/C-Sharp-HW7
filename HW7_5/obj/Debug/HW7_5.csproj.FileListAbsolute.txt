@@ -1,0 +1,14 @@
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_5\bin\Debug\HW7_5.exe.config
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_5\bin\Debug\HW7_5.exe
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_5\bin\Debug\HW7_5.pdb
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_5\obj\Debug\HW7_5.csprojAssemblyReference.cache
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_5\obj\Debug\HW7_5.csproj.CoreCompileInputs.cache
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_5\obj\Debug\HW7_5.exe
+A:\Учеба\C#.net\Домашние задания\HW7\HW7_5\obj\Debug\HW7_5.pdb
+A:\HW7\HW7_5\bin\Debug\HW7_5.exe.config
+A:\HW7\HW7_5\bin\Debug\HW7_5.exe
+A:\HW7\HW7_5\bin\Debug\HW7_5.pdb
+A:\HW7\HW7_5\obj\Debug\HW7_5.csprojAssemblyReference.cache
+A:\HW7\HW7_5\obj\Debug\HW7_5.csproj.CoreCompileInputs.cache
+A:\HW7\HW7_5\obj\Debug\HW7_5.exe
+A:\HW7\HW7_5\obj\Debug\HW7_5.pdb
